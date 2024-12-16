@@ -14,3 +14,26 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/nightsornram"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nightsornram" /></a></p><br><br>
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=night-sornram&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=night-sornram&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=night-sornram&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=night-sornram&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=night-sornram&layout=compact&theme=dark"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night-sornram&layout=compact" />
+</picture>
